@@ -1,0 +1,31 @@
+{
+  "name": "big-blog",
+  "private": true,
+  "version": "1.0.0",
+  "description": "大理论合订本 · Big Theory Blog — Original tweets, search and sorting",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/build-catalog.mjs && tsc -b && vite build && node scripts/postbuild-seo.mjs",
+    "preview": "vite preview",
+    "discover": "python3 scripts/discover_x_theories.py",
+    "verify": "node scripts/verify-build.mjs",
+    "test": "node scripts/test-data.mjs && node scripts/test-catalog.mjs",
+    "test:discovery": "python3 -m unittest discover -s scripts -p 'test_discover_x_theories.py'",
+    "catalog": "node scripts/build-catalog.mjs",
+    "verify:catalog": "node scripts/build-catalog.mjs --check"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.5"
+  }
+}

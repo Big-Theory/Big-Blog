@@ -1,0 +1,1691 @@
+{
+  "schema_version": "1.1",
+  "generated_at": "2026-11-19T12:38:14.648022+00:00",
+  "quality_threshold_min_likes": 20,
+  "seed_post": "https://x.com/xzhang_billy/status/2121879505170210981",
+  "total_verified_posts": 27,
+  "posts": [
+    {
+      "id": "2122586708470296977",
+      "url": "https://x.com/noahatwhere/status/2122586708470296977",
+      "text": "非常赞同这篇文章的观点。\n\n很多在学校待久的…",
+      "created_at": "Tue Nov 17 07:04:41 +0000 2026",
+      "created_timestamp": 1794899081,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 1440,
+        "bookmarks": 1164,
+        "views": 209682,
+        "retweets": 210,
+        "replies": 20,
+        "quotes": 10
+      },
+      "author": {
+        "name": "NoaX",
+        "handle": "noahatwhere",
+        "url": "https://x.com/noahatwhere",
+        "bio": "北美PhD 在读，Founding Staff @ Stealth Startup\nex-Harvard Researcher, Solo Developer, UI/UX designer \nBuilding: http://peekdesign.space",
+        "location": "San Francisco, CA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2116778836188913664/rbpTXx8H_200x200.jpg",
+        "website": null,
+        "followers": 2967,
+        "verified": true
+      },
+      "quote": {
+        "id": "2122376297305510332",
+        "url": "https://x.com/wwwgoubuli/status/2122376297305510332",
+        "text": "",
+        "likes": 1247,
+        "author": {
+          "name": "wwwgoubuli",
+          "handle": "wwwgoubuli"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 705,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:50:09.940146+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "关于研究生阶段杠杆与选择的讨论",
+        "en": "Leverage and Choices in Graduate Research"
+      },
+      "summary": {
+        "zh": "区分投入努力与选择值得投入的事情，讨论研究生如何重新审视评价体系，并对可能改变人生方向的决定负责。",
+        "en": "Distinguishes working hard from choosing worthwhile work, asking graduate researchers to reassess inherited measures of success and take responsibility for major decisions."
+      },
+      "kind": "discussion",
+      "latest_metrics": {
+        "likes": 1440,
+        "bookmarks": 1165,
+        "views": 209771,
+        "retweets": 210,
+        "replies": 20,
+        "quotes": 10
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2123005199967297994",
+      "url": "https://x.com/silsrc/status/2123005199967297994",
+      "text": "如果所有人从几十年前就开始都遵循大斜率理论，…",
+      "created_at": "Wed Nov 18 10:47:37 +0000 2026",
+      "created_timestamp": 1794998857,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 1171,
+        "bookmarks": 184,
+        "views": 90380,
+        "retweets": 58,
+        "replies": 54,
+        "quotes": 15
+      },
+      "author": {
+        "name": "scr.c",
+        "handle": "silsrc",
+        "url": "https://x.com/silsrc",
+        "bio": "开源爱好，万能工程师（存疑），现代魔法老中登，不擅长写代码，假装是计算机科学家，Linux Kernel Hacker。",
+        "location": "Beijing",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_200x200.jpg",
+        "website": null,
+        "followers": 12228,
+        "verified": false
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 86,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "对大斜率理论的反思",
+        "en": "A Critique of High-Slope Research"
+      },
+      "summary": {
+        "zh": "质疑把短期可验证的高回报当作唯一准则，提醒读者考虑需要长期探索的研究。",
+        "en": "Challenges an exclusive focus on quickly measurable returns and draws attention to research that requires prolonged exploration."
+      },
+      "kind": "discussion",
+      "latest_metrics": {
+        "likes": 1185,
+        "bookmarks": 190,
+        "views": 91891,
+        "retweets": 58,
+        "replies": 54,
+        "quotes": 15
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2121889297066582500",
+      "url": "https://x.com/persdre/status/2121889297066582500",
+      "text": "转LLM第一年学到的发论文规律\n\n1. 团队…",
+      "created_at": "Sun Nov 15 08:53:25 +0000 2026",
+      "created_timestamp": 1794732805,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 662,
+        "bookmarks": 323,
+        "views": 75688,
+        "retweets": 37,
+        "replies": 27,
+        "quotes": 4
+      },
+      "author": {
+        "name": "鸭基米德",
+        "handle": "persdre",
+        "url": "https://x.com/persdre",
+        "bio": "小红书同名 6k粉\nCS PhD candidate & Quant Researcher @NUSingapore, researching on LLM for finance\nBS @NUSingapore \nex-Undergrad @sjtu1896",
+        "location": "Singapore",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1835003451929137152/GQDK4zvD_200x200.jpg",
+        "website": "https://persdre.github.io/",
+        "followers": 923,
+        "verified": true
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 109,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大合作理论",
+        "en": "The Collaboration Theory"
+      },
+      "summary": {
+        "zh": "从转向大模型研究的经历出发，强调选择合作者、及时公开工作，以及进入活跃研究网络。",
+        "en": "Lessons from moving into LLM research: find collaborators, release work promptly, and participate in productive research networks."
+      },
+      "kind": "theory",
+      "latest_metrics": {
+        "likes": 662,
+        "bookmarks": 323,
+        "views": 75701,
+        "retweets": 37,
+        "replies": 27,
+        "quotes": 4
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2121879505170210981",
+      "url": "https://x.com/xzhang_billy/status/2121879505170210981",
+      "text": "总结下简中区与PhD相关理论：\n1. 大 Bench 理论：https://x.com/vclee8/status/2120212679470268893\n2. 大实习理论：\nhttps://x.com/vclee8/status/2108964342679183668\n3. 大粉理论：\nhttps://x.com/collinzrj2001/status/2109310595690336566\n4. 大日结理论：https://x.com/persdre/status/2117955709778403425\n5. 大斜率理论：https://x.com/Selen7005717917/status/2115096138223342072\n6. HR 理论：https://x.com/xzhang_billy/status/2117991393683750962\n颇有百家争鸣的氛围",
+      "created_at": "Sun Nov 15 08:14:31 +0000 2026",
+      "created_timestamp": 1794730471,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 526,
+        "bookmarks": 615,
+        "views": 110194,
+        "retweets": 82,
+        "replies": 26,
+        "quotes": 29
+      },
+      "author": {
+        "name": "Xuan (Billy) Zhang",
+        "handle": "xzhang_billy",
+        "url": "https://x.com/xzhang_billy",
+        "bio": "PhDing @NUSingapore \nOpinions are my own.",
+        "location": "Singapore",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2102328956859142144/u7hTrfLy_200x200.jpg",
+        "website": "https://xuanzhang.io",
+        "followers": 659,
+        "verified": true
+      },
+      "quote": {
+        "id": "2117991393683750962",
+        "url": "https://x.com/xzhang_billy/status/2117991393683750962",
+        "text": "面对今年异常艰难的就业市场，AI PhD 或许更适合转行做 HR：\n1. 深谙大粉理论，个人账号宣传效果拉满。\n2. 懂技术，更能精准匹配候选人与实际业务需求。\n3. 人脉直达目标群体，同门、同行遍地都是。\n4. 熟练使用 AI 工具，招聘提效、候选人体验双提升。\n5. 某种程度上，你就是招聘流程里的 SAC。",
+        "likes": 110,
+        "author": {
+          "name": "Xuan (Billy) Zhang",
+          "handle": "xzhang_billy"
+        },
+        "photos": []
+      },
+      "latest_metrics": {
+        "likes": 528,
+        "bookmarks": 616,
+        "views": 110636,
+        "retweets": 83,
+        "replies": 26,
+        "quotes": 29
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "title": {
+        "zh": "总结简中区与PhD相关理论",
+        "en": "Summary of Chinese PhD-related Big Theories"
+      },
+      "summary": {
+        "zh": "核心汇总帖，列出大 Bench、大实习、大粉、大日结、大斜率和 HR 理论。",
+        "en": "A roundup of the benchmark, internship, fandom, daily settlement, slope, and HR theories."
+      },
+      "kind": "context"
+    },
+    {
+      "id": "2120212679470268893",
+      "url": "https://x.com/vclee8/status/2120212679470268893",
+      "text": "基模吞噬一切的情况下，PhD 感觉真的只能造 bench。\n\n想了想，这里面学问其实好多。\n\n一方面得学会怎么定义一个清晰的问题，同时尽量跟别人切入的角度不一样。现在很多情憵是大家都有共识，一个 idea 谁都能想到，全拼手速和资源。但执行力确实也很关键，毕竟 talk (maybe) still is cheap。\n\n二是把跨界的变成「基模友好型」。最近半年也逐渐看到，自己做的领域从风头正盛，慢慢要沦为基模挂件（甚至快保不住了。后来想，与其悲伤，不如造数据、造 bench：把自己的数据做成方便基模训的，把任务做成方便基模完成的，把自己的研究方向逐渐变成给基模定义的一个任务。\n\n三是要学会宣传，尤其是多平台宣传，毕竟大粉理论。但宣传策略上也要贴合基模，be like 基模能直接改模型权重这种。Attention is all you need。\n\n这波看似是基模思维了，实际上是没招了。",
+      "created_at": "Tue Nov 10 17:51:09 +0000 2026",
+      "created_timestamp": 1794333069,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 444,
+        "bookmarks": 313,
+        "views": 275230,
+        "retweets": 45,
+        "replies": 23,
+        "quotes": 16
+      },
+      "author": {
+        "name": "Xinye (Victor) Li",
+        "handle": "vclee8",
+        "url": "https://x.com/vclee8",
+        "bio": "Phd Student @CUHKofficial\nInterests: Data&Benchmark, Foundation Models, World Models",
+        "location": "Hong Kong",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2037087337315000320/PwXlWsuL_200x200.jpg",
+        "website": "http://asdfo123.github.io",
+        "followers": 607,
+        "verified": true
+      },
+      "quote": null,
+      "latest_metrics": {
+        "likes": 445,
+        "bookmarks": 313,
+        "views": 275334,
+        "retweets": 45,
+        "replies": 23,
+        "quotes": 16
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "title": {
+        "zh": "大Bench理论：基模吞噬下PhD只能造bench",
+        "en": "Big Bench Theory"
+      },
+      "summary": {
+        "zh": "讨论将研究方向转化为基模友好的问题、数据与评测任务。",
+        "en": "Discusses framing research as foundation-model-friendly problems, datasets, and benchmarks."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2122859964205277441",
+      "url": "https://x.com/uncle_moon_x/status/2122859964205277441",
+      "text": "我不喜欢大斜率，大xxx理论\n这有点儿被媒体…",
+      "created_at": "Wed Nov 18 01:10:30 +0000 2026",
+      "created_timestamp": 1794964230,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 347,
+        "bookmarks": 75,
+        "views": 44425,
+        "retweets": 12,
+        "replies": 31,
+        "quotes": 11
+      },
+      "author": {
+        "name": "月球大叔",
+        "handle": "uncle_moon_x",
+        "url": "https://x.com/uncle_moon_x",
+        "bio": "在硅谷采访100个有意思的人\n视频：https://youtube.com/@uncle_moon_x\n文字稿：https://unclemoon.ai",
+        "location": "San Francisco, CA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2091087259009499136/IAhKPJR2_200x200.jpg",
+        "website": "https://unclemoon.ai",
+        "followers": 6829,
+        "verified": true
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 327,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T12:38:14.648022+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "反思大斜率理论：踏实积累与长期手艺",
+        "en": "A Critique of Big Slope Theory: Durable Craft"
+      },
+      "summary": {
+        "zh": "以基础设施、数据直觉和训练经验为例，反驳只有热点方向才有价值的看法，强调长期积累。",
+        "en": "Uses infrastructure, data intuition, and training experience to challenge the idea that only fashionable directions have value."
+      },
+      "kind": "discussion"
+    },
+    {
+      "id": "2123135711297867881",
+      "url": "https://x.com/noahatwhere/status/2123135711297867881",
+      "text": "我觉得大部分 PhD or research…",
+      "created_at": "Wed Nov 18 19:26:14 +0000 2026",
+      "created_timestamp": 1795029974,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 262,
+        "bookmarks": 197,
+        "views": 41722,
+        "retweets": 24,
+        "replies": 19,
+        "quotes": 4
+      },
+      "author": {
+        "name": "NoaX",
+        "handle": "noahatwhere",
+        "url": "https://x.com/noahatwhere",
+        "bio": "北美PhD 在读，Founding Staff @ Stealth Startup\nex-Harvard Researcher, Solo Developer, UI/UX designer \nBuilding: http://peekdesign.space",
+        "location": "San Francisco, CA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2116778836188913664/rbpTXx8H_200x200.jpg",
+        "website": null,
+        "followers": 2968,
+        "verified": true
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 609,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "关于科研展示与设计的讨论",
+        "en": "Research Communication and Design"
+      },
+      "summary": {
+        "zh": "这篇前导讨论把设计视为科研交流的一部分，主张降低理解成果的成本；原帖同时介绍作者自己的设计产品。",
+        "en": "A precursor discussion arguing that design can make research easier to understand; the original also promotes the author’s design product."
+      },
+      "kind": "discussion",
+      "latest_metrics": {
+        "likes": 274,
+        "bookmarks": 210,
+        "views": 43794,
+        "retweets": 25,
+        "replies": 19,
+        "quotes": 4
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2122224787753992542",
+      "url": "https://x.com/PengQihang87687/status/2122224787753992542",
+      "text": "支持大斜率理论，作为一个本科从3D grou…",
+      "created_at": "Mon Nov 16 07:06:33 +0000 2026",
+      "created_timestamp": 1794812793,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 207,
+        "bookmarks": 99,
+        "views": 25247,
+        "retweets": 10,
+        "replies": 10,
+        "quotes": 3
+      },
+      "author": {
+        "name": "Qihang Peng",
+        "handle": "PengQihang87687",
+        "url": "https://x.com/PengQihang87687",
+        "bio": "PhD at MMLab @CUHKofficial | BSc & BEng @Tsinghua_Uni\nIntern @Alibaba_Qwen\nPretrain, Agent, Robotics",
+        "location": "Beijing, China",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1890793946852597760/6eo2Q8p2_200x200.jpg",
+        "website": "https://pqh22.github.io/",
+        "followers": 319,
+        "verified": false
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 137,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T12:38:14.648022+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "支持大斜率理论：方向转换的经验",
+        "en": "Supporting Big Slope Theory: Lessons from Research Pivots"
+      },
+      "summary": {
+        "zh": "以跨越 3D grounding、自动驾驶、机器人和 LLM 的经历，讨论面对更有价值方向时及时转向。",
+        "en": "Reflects on moves across 3D grounding, driving, robotics, and LLMs, advocating timely pivots toward more valuable directions."
+      },
+      "kind": "discussion"
+    },
+    {
+      "id": "2122757000064889213",
+      "url": "https://x.com/jiegaosophia/status/2122757000064889213",
+      "text": "我将提出大开放理论。\n\n做科研久了，我发现很…",
+      "created_at": "Tue Nov 17 18:21:22 +0000 2026",
+      "created_timestamp": 1794939682,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 201,
+        "bookmarks": 107,
+        "views": 15939,
+        "retweets": 18,
+        "replies": 7,
+        "quotes": 1
+      },
+      "author": {
+        "name": "Jie (Sophia) Gao",
+        "handle": "jiegaosophia",
+        "url": "https://x.com/jiegaosophia",
+        "bio": "A well-trained general-purpose LLM. Words are my own.\n\nIncoming Lecturer (i.e.,Assistant Professor) @MonashUni | Malone Postdoc Fellow @JohnsHopkins.",
+        "location": "Maryland, USA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2086795585471041536/ZDFBP1lH_200x200.jpg",
+        "website": "https://gaojie058.github.io/",
+        "followers": 473,
+        "verified": true
+      },
+      "quote": {
+        "id": "2121879505170210981",
+        "url": "https://x.com/xzhang_billy/status/2121879505170210981",
+        "text": "",
+        "likes": 528,
+        "author": {
+          "name": "Xuan (Billy) Zhang",
+          "handle": "xzhang_billy"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 716,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:50:09.940146+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大开放理论",
+        "en": "The Openness Theory"
+      },
+      "summary": {
+        "zh": "主张在学科、与人交往、前沿技术和科研失败面前保持学习意愿，避免先入为主的评价妨碍交流。",
+        "en": "Encourages openness to disciplines, people, new technology, and research setbacks, rather than letting preconceptions prevent learning."
+      },
+      "kind": "theory",
+      "latest_metrics": {
+        "likes": 201,
+        "bookmarks": 107,
+        "views": 15943,
+        "retweets": 18,
+        "replies": 7,
+        "quotes": 1
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2120331928352194804",
+      "url": "https://x.com/Fred834567/status/2120331928352194804",
+      "text": "太真实了，这其实就是大模型里强化学习的底层逻…",
+      "created_at": "Wed Nov 11 01:45:00 +0000 2026",
+      "created_timestamp": 1794361500,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 189,
+        "bookmarks": 87,
+        "views": 12200,
+        "retweets": 22,
+        "replies": 3,
+        "quotes": 4
+      },
+      "author": {
+        "name": "Fred-New",
+        "handle": "Fred834567",
+        "url": "https://x.com/Fred834567",
+        "bio": "PhD in 🇭🇰 | Deep Insights\n工作流 · Codex · Agent\nOpen-source AI tools  | 跑通的赚钱副业 \nBilingual Insights 🇺🇸 & 🇨🇳 | DM可合作",
+        "location": "",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2068532065889570816/m_4UBZhP_200x200.jpg",
+        "website": "https://t.me/+GzCWpwWhRVVkYTll",
+        "followers": 16200,
+        "verified": true
+      },
+      "quote": {
+        "id": "2120120905619902933",
+        "url": "https://x.com/DUBIANCHEOVO/status/2120120905619902933",
+        "text": "",
+        "likes": 2661,
+        "author": {
+          "name": "我需要一张绿卡",
+          "handle": "DUBIANCHEOVO"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 287,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "keyword_candidate"
+      },
+      "latest_metrics": {
+        "likes": 189,
+        "bookmarks": 87,
+        "views": 12202,
+        "retweets": 22,
+        "replies": 3,
+        "quotes": 4
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2121985351304843447",
+      "url": "https://x.com/geminitfwang/status/2121985351304843447",
+      "text": "读研读博，靠时间密度拉开差距\n\n同一年级毕业…",
+      "created_at": "Sun Nov 15 15:15:06 +0000 2026",
+      "created_timestamp": 1794755706,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 169,
+        "bookmarks": 133,
+        "views": 15223,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 2
+      },
+      "author": {
+        "name": "GeminiLight",
+        "handle": "geminitfwang",
+        "url": "https://x.com/geminitfwang",
+        "bio": "港科 AI 博士生 & AGI 野生家\nEx. Kimi、智谱、腾讯 Workbuddy、微软 MSRA\nAGI将至，需野蛮生长，分享科研、成长与AI前沿",
+        "location": "",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1888818965864206336/mOBXRkvu_200x200.png",
+        "website": "http://tianfu.wang",
+        "followers": 1113,
+        "verified": true
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 1095,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大密度理论",
+        "en": "The Time Density Theory"
+      },
+      "summary": {
+        "zh": "用单位时间内活动的价值解释成长差异，关注能够改善后续判断与行动的投入。",
+        "en": "Explores differences in growth through the value of activities per unit of time, especially investments that improve later decisions."
+      },
+      "kind": "theory",
+      "latest_metrics": {
+        "likes": 169,
+        "bookmarks": 133,
+        "views": 15227,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 2
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2123224953424412926",
+      "url": "https://x.com/greghxm_1/status/2123224953424412926",
+      "text": "这篇文章pyq被转爆了，虽然很多爆点对大部分…",
+      "created_at": "Thu Nov 19 01:20:51 +0000 2026",
+      "created_timestamp": 1795051251,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 146,
+        "bookmarks": 79,
+        "views": 24089,
+        "retweets": 10,
+        "replies": 5,
+        "quotes": 2
+      },
+      "author": {
+        "name": "Greg Hu",
+        "handle": "greghxm_1",
+        "url": "https://x.com/greghxm_1",
+        "bio": "PhD student @CUHKofficial. prev. @Alibaba_Qwen, @Kimi_Moonshot",
+        "location": "Hong Kong",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2123006501497495552/Y1C6r28L_200x200.jpg",
+        "website": null,
+        "followers": 202,
+        "verified": true
+      },
+      "quote": {
+        "id": "2122989341060538650",
+        "url": "https://x.com/sheriyuo/status/2122989341060538650",
+        "text": "",
+        "likes": 284,
+        "author": {
+          "name": "Xiuyu Li",
+          "handle": "sheriyuo"
+        },
+        "photos": [
+          "https://pbs.twimg.com/media/HXZdx3uawAAxbLj.jpg?name=orig"
+        ]
+      },
+      "text_status": "excerpt",
+      "original_character_count": 335,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T12:38:14.648022+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大空仓理论：短期会被 LLM 解决的能力是否值得投入",
+        "en": "Big Empty Position Theory"
+      },
+      "summary": {
+        "zh": "主张审视那些短期内可能被 LLM 替代、却需要大量投入的能力，把精力用于更有判断力的努力；并非倡导什么都不做。",
+        "en": "Questions heavy investment in skills LLMs may soon automate and argues for more discerning effort, rather than doing nothing."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2109230855822708859",
+      "url": "https://x.com/Alenjonesyi/status/2109230855822708859",
+      "text": "大晚上看到🍠这篇笔记有点没绷住",
+      "created_at": "Sun Oct 11 10:33:18 +0000 2026",
+      "created_timestamp": 1791714798,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 143,
+        "bookmarks": 35,
+        "views": 24562,
+        "retweets": 2,
+        "replies": 10,
+        "quotes": 4
+      },
+      "author": {
+        "name": "sudo fixes everything",
+        "handle": "Alenjonesyi",
+        "url": "https://x.com/Alenjonesyi",
+        "bio": "Music & Travel. Headpic by @mugugulei",
+        "location": "Washington, USA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010889357713195008/1FpBIlYA_200x200.jpg",
+        "website": null,
+        "followers": 1974,
+        "verified": true
+      },
+      "quote": null,
+      "latest_metrics": {
+        "likes": 143,
+        "bookmarks": 35,
+        "views": 24570,
+        "retweets": 2,
+        "replies": 10,
+        "quotes": 4
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "kind": "context"
+    },
+    {
+      "id": "2122633488323268845",
+      "url": "https://x.com/VictorSJHuang/status/2122633488323268845",
+      "text": "也来支持一下大斜率理论。刷到原帖 yue@S…",
+      "created_at": "Tue Nov 17 10:10:34 +0000 2026",
+      "created_timestamp": 1794910234,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 117,
+        "bookmarks": 53,
+        "views": 7748,
+        "retweets": 11,
+        "replies": 5,
+        "quotes": 1
+      },
+      "author": {
+        "name": "Victor Huang @NeurIPS 2026 🇦🇺",
+        "handle": "VictorSJHuang",
+        "url": "https://x.com/VictorSJHuang",
+        "bio": "🎓 PhD @CUHKofficial MMLab.\n🤖 Agentic foundation models — pre-train, post-train & RL.\n📝 Notes on what scales. Always happy to chat. Opinions are my own.",
+        "location": "Hong Kong",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1981632309666172928/Rzt83Uz3_200x200.jpg",
+        "website": "https://jeixhuang.github.io/",
+        "followers": 82,
+        "verified": true
+      },
+      "quote": {
+        "id": "2122224787753992542",
+        "url": "https://x.com/PengQihang87687/status/2122224787753992542",
+        "text": "",
+        "likes": 207,
+        "author": {
+          "name": "Qihang Peng",
+          "handle": "PengQihang87687"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 748,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T12:38:14.648022+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "支持大斜率理论：顺着基座演进增加杠杆",
+        "en": "Supporting Big Slope Theory: Building on Foundation Models"
+      },
+      "summary": {
+        "zh": "结合从 AI safety 到 agent 的转向经历，主张重视真实生产反馈，并顺着基座模型演进选择方向。",
+        "en": "Draws on pivots from AI safety to agents to argue for production feedback and research aligned with foundation-model progress."
+      },
+      "kind": "discussion"
+    },
+    {
+      "id": "2121958331682328643",
+      "url": "https://x.com/greghxm_1/status/2121958331682328643",
+      "text": "我现在直接提出大理论理论： PhD 应该勇于…",
+      "created_at": "Sun Nov 15 13:27:45 +0000 2026",
+      "created_timestamp": 1794749265,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 115,
+        "bookmarks": 52,
+        "views": 10777,
+        "retweets": 9,
+        "replies": 4,
+        "quotes": 5
+      },
+      "author": {
+        "name": "Greg Hu",
+        "handle": "greghxm_1",
+        "url": "https://x.com/greghxm_1",
+        "bio": "PhD student @CUHKofficial. prev. @Alibaba_Qwen, @Kimi_Moonshot",
+        "location": "Hong Kong",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2123006501497495552/Y1C6r28L_200x200.jpg",
+        "website": null,
+        "followers": 202,
+        "verified": true
+      },
+      "quote": {
+        "id": "2121879505170210981",
+        "url": "https://x.com/xzhang_billy/status/2121879505170210981",
+        "text": "",
+        "likes": 528,
+        "author": {
+          "name": "Xuan (Billy) Zhang",
+          "handle": "xzhang_billy"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 280,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大理论理论",
+        "en": "The Theory of Making Theories"
+      },
+      "summary": {
+        "zh": "鼓励博士生把自己的认识整理成可讨论的框架，以澄清研究方向并让潜在合作者理解自己。",
+        "en": "Encourages doctoral researchers to articulate frameworks that clarify their thinking and make their interests legible to collaborators."
+      },
+      "kind": "theory",
+      "latest_metrics": {
+        "likes": 115,
+        "bookmarks": 52,
+        "views": 10781,
+        "retweets": 9,
+        "replies": 4,
+        "quotes": 5
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2117991393683750962",
+      "url": "https://x.com/xzhang_billy/status/2117991393683750962",
+      "text": "面对今年异常艰难的就业市场，AI PhD 或许更适合转行做 HR：\n1. 深谙大粉理论，个人账号宣传效果拉满。\n2. 懂技术，更能精准匹配候选人与实际业务需求。\n3. 人脉直达目标群体，同门、同行遍地都是。\n4. 熟练使用 AI 工具，招聘提效、候选人体验双提升。\n5. 某种程度上，你就是招聘流程里的 SAC。",
+      "created_at": "Wed Nov 04 14:44:33 +0000 2026",
+      "created_timestamp": 1793803473,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 110,
+        "bookmarks": 29,
+        "views": 40792,
+        "retweets": 6,
+        "replies": 26,
+        "quotes": 10
+      },
+      "author": {
+        "name": "Xuan (Billy) Zhang",
+        "handle": "xzhang_billy",
+        "url": "https://x.com/xzhang_billy",
+        "bio": "PhDing @NUSingapore \nOpinions are my own.",
+        "location": "Singapore",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2102328956859142144/u7hTrfLy_200x200.jpg",
+        "website": "https://xuanzhang.io",
+        "followers": 659,
+        "verified": true
+      },
+      "quote": null,
+      "latest_metrics": {
+        "likes": 111,
+        "bookmarks": 29,
+        "views": 40909,
+        "retweets": 6,
+        "replies": 26,
+        "quotes": 10
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "title": {
+        "zh": "HR理论：AI PhD更适合转行做HR",
+        "en": "HR Theory"
+      },
+      "summary": {
+        "zh": "将博士生的传播、技术判断、人脉和工具能力与招聘工作类比。",
+        "en": "Compares PhD communication, technical judgment, networks, and tool skills with recruiting work."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2123315885683409127",
+      "url": "https://x.com/GunpowderTwi/status/2123315885683409127",
+      "text": "我能不能提出一个大休学理论？在这个auto …",
+      "created_at": "Thu Nov 19 07:22:11 +0000 2026",
+      "created_timestamp": 1795072931,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 86,
+        "bookmarks": 14,
+        "views": 11574,
+        "retweets": 3,
+        "replies": 13,
+        "quotes": 3
+      },
+      "author": {
+        "name": "Pegasus Bluie",
+        "handle": "GunpowderTwi",
+        "url": "https://x.com/GunpowderTwi",
+        "bio": "Undergrad 25'@Tongji_Uni, Man To Filly\n同济大学25级本科生，专注于机器视觉和具身智能。\nComputer Vision & Embodied Intelligence\nHomepage http://home.hachile.org/en",
+        "location": "Shanghai",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2118137906170933248/zVmATxJj_200x200.png",
+        "website": "http://sky.hachile.org/en",
+        "followers": 441,
+        "verified": true
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 99,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T12:38:14.648022+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大休学理论：用间隔年探索实习与科研",
+        "en": "Big Gap Year Theory"
+      },
+      "summary": {
+        "zh": "以带有玩笑意味的提问，讨论本科一年级后休学一年投入实习与科研的可能性。",
+        "en": "Playfully proposes a gap year after freshman year to explore internships and research."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2115096138223342072",
+      "url": "https://x.com/Selen7005717917/status/2115096138223342072",
+      "text": "我曾和mihoyo创始人大伟哥交谈，关于LLM的投入问题，他反复强调，做某些事情，\"斜率\"是最高的，不能让次要的事情影响到主要的事情的\"斜率\".  我将在接下来发展大斜率理论，做斜率高的事情，就是本质的，否则就是不本质的.",
+      "created_at": "Tue Oct 27 14:59:50 +0000 2026",
+      "created_timestamp": 1793113190,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 85,
+        "bookmarks": 29,
+        "views": 6612,
+        "retweets": 4,
+        "replies": 13,
+        "quotes": 0
+      },
+      "author": {
+        "name": "Yue Su",
+        "handle": "Selen7005717917",
+        "url": "https://x.com/Selen7005717917",
+        "bio": "PhD at MMLab@HKU (2026.9 - ).\nNext Transformer Initiator.\nFounder of IAAI Team.",
+        "location": "Hong Kong",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1883348413330419712/jAvSAo6a_200x200.jpg",
+        "website": "http://selen-suyue.github.io",
+        "followers": 1611,
+        "verified": true
+      },
+      "quote": null,
+      "latest_metrics": {
+        "likes": 85,
+        "bookmarks": 29,
+        "views": 6624,
+        "retweets": 4,
+        "replies": 13,
+        "quotes": 0
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "title": {
+        "zh": "大斜率理论：做斜率最高的事",
+        "en": "Big Slope Theory"
+      },
+      "summary": {
+        "zh": "主张优先投入进展斜率较高的事情。",
+        "en": "Argues for prioritizing activities with a higher rate of progress."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2122154720920060350",
+      "url": "https://x.com/sanbuphy/status/2122154720920060350",
+      "text": "总结下最新 20261116 简中区与PhD…",
+      "created_at": "Mon Nov 16 02:28:07 +0000 2026",
+      "created_timestamp": 1794796087,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 83,
+        "bookmarks": 53,
+        "views": 7440,
+        "retweets": 8,
+        "replies": 11,
+        "quotes": 5
+      },
+      "author": {
+        "name": "Sanbu 散步",
+        "handle": "sanbuphy",
+        "url": "https://x.com/sanbuphy",
+        "bio": "Building infrastructure for AI project-based learning | WalkingLab\n50K+ GitHub stars | 喜欢吃饭和大肥鱼",
+        "location": "Mars",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2112071705179127808/SM4WAhG6_200x200.jpg",
+        "website": "https://github.com/sanbuphy",
+        "followers": 5920,
+        "verified": true
+      },
+      "quote": {
+        "id": "2117991393683750962",
+        "url": "https://x.com/xzhang_billy/status/2117991393683750962",
+        "text": "",
+        "likes": 111,
+        "author": {
+          "name": "Xuan (Billy) Zhang",
+          "handle": "xzhang_billy"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 676,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:50:09.940146+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "十一项大理论汇编",
+        "en": "An Eleven-Theory Roundup"
+      },
+      "summary": {
+        "zh": "已有来源的扩展索引；不作为新的独立理论计数。",
+        "en": "An expanded index of existing sources; excluded from the distinct editorial count."
+      },
+      "kind": "context",
+      "latest_metrics": {
+        "likes": 83,
+        "bookmarks": 53,
+        "views": 7444,
+        "retweets": 8,
+        "replies": 11,
+        "quotes": 5
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2122336224912552437",
+      "url": "https://x.com/Chengxing_Xie/status/2122336224912552437",
+      "text": "在这个百家争鸣的时代，我也决定自立一派，提出…",
+      "created_at": "Mon Nov 16 14:29:21 +0000 2026",
+      "created_timestamp": 1794839361,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 79,
+        "bookmarks": 21,
+        "views": 5224,
+        "retweets": 4,
+        "replies": 12,
+        "quotes": 3
+      },
+      "author": {
+        "name": "Chengxing Xie",
+        "handle": "Chengxing_Xie",
+        "url": "https://x.com/Chengxing_Xie",
+        "bio": "PhD @ Tsinghua\nAgentic RL & LLM post-training systems\nCore: GLM-4.5/5 · slime · SGLang RL\nBuilding & explaining agents",
+        "location": "Haidian, Beijing",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2031684150898614272/jXNxHKW1_200x200.jpg",
+        "website": "https://yitianlian.github.io/",
+        "followers": 328,
+        "verified": true
+      },
+      "quote": {
+        "id": "2121879505170210981",
+        "url": "https://x.com/xzhang_billy/status/2121879505170210981",
+        "text": "",
+        "likes": 528,
+        "author": {
+          "name": "Xuan (Billy) Zhang",
+          "handle": "xzhang_billy"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 481,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:50:09.940146+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大水群理论",
+        "en": "The Group Chat Theory"
+      },
+      "summary": {
+        "zh": "把持续参与小型技术与科研社群视为建立关系的方法，强调反复交流带来的熟悉感与合作机会。",
+        "en": "Treats sustained participation in small technical and research communities as a way to build familiarity, relationships, and collaboration opportunities."
+      },
+      "kind": "theory",
+      "latest_metrics": {
+        "likes": 79,
+        "bookmarks": 21,
+        "views": 5224,
+        "retweets": 4,
+        "replies": 12,
+        "quotes": 3
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2109310595690336566",
+      "url": "https://x.com/collinzrj2001/status/2109310595690336566",
+      "text": "大粉理论：对于PhD来说，推特/小红书粉丝数量>Google Scholar Citation数量",
+      "created_at": "Sun Oct 11 15:50:09 +0000 2026",
+      "created_timestamp": 1791733809,
+      "lang": "zh",
+      "is_note_tweet": false,
+      "metrics": {
+        "likes": 77,
+        "bookmarks": 38,
+        "views": 132449,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 5
+      },
+      "author": {
+        "name": "Collin Zhang",
+        "handle": "collinzrj2001",
+        "url": "https://x.com/collinzrj2001",
+        "bio": "CS PhD Student @Cornell\nResearch Intern @Alibaba_Qwen\nAlignment, RSI, Eval&Data",
+        "location": "",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1857109563184418817/eavA_UMk_200x200.jpg",
+        "website": null,
+        "followers": 156,
+        "verified": true
+      },
+      "quote": {
+        "id": "2109230855822708859",
+        "url": "https://x.com/Alenjonesyi/status/2109230855822708859",
+        "text": "大晚上看到🍠这篇笔记有点没绷住",
+        "likes": 143,
+        "author": {
+          "name": "sudo fixes everything",
+          "handle": "Alenjonesyi"
+        },
+        "photos": [
+          "https://pbs.twimg.com/media/HUV-SS0bAAEbz-O.jpg?name=orig"
+        ]
+      },
+      "latest_metrics": {
+        "likes": 77,
+        "bookmarks": 38,
+        "views": 132459,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 5
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "title": {
+        "zh": "大粉理论：推特/小红书粉丝 > Google Scholar引用",
+        "en": "Big Fan Theory"
+      },
+      "summary": {
+        "zh": "以粉丝数量与学术引用的对比，讨论博士生的注意力资源。",
+        "en": "Compares social-media followers with citations as resources for doctoral researchers."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2108964342679183668",
+      "url": "https://x.com/vclee8/status/2108964342679183668",
+      "text": "我将提出实习理论：\n\n清北华五还是港三新二，没用。 导师是杰青还是新ap，没用。 是大组还是小组，没用。\nAI把论文、代码、工具、知识，全部拉平了。 你能读到的，别人也能读到。 你能调的，别人也能调。\n真正还在拉开差距的，只剩你有没有在真实问题里拿到过反馈。\n读博本身不是杠杆。 实习才是。\n别人还在纠结哪个组更响。 你已经在真实场景里交过卷了。\n镜子不会因为你名校title就多给你五分。 \n不要把学校和头衔看得太重。 把实习做完。 把反馈拿回来。 把选择权留在自己手里。\n这才是AI时代读博真正该抓住的东西。",
+      "created_at": "Sat Oct 10 16:54:16 +0000 2026",
+      "created_timestamp": 1791651256,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 71,
+        "bookmarks": 30,
+        "views": 7973,
+        "retweets": 4,
+        "replies": 2,
+        "quotes": 1
+      },
+      "author": {
+        "name": "Xinye (Victor) Li",
+        "handle": "vclee8",
+        "url": "https://x.com/vclee8",
+        "bio": "Phd Student @CUHKofficial\nInterests: Data&Benchmark, Foundation Models, World Models",
+        "location": "Hong Kong",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2037087337315000320/PwXlWsuL_200x200.jpg",
+        "website": "http://asdfo123.github.io",
+        "followers": 607,
+        "verified": true
+      },
+      "quote": null,
+      "latest_metrics": {
+        "likes": 71,
+        "bookmarks": 30,
+        "views": 7982,
+        "retweets": 4,
+        "replies": 2,
+        "quotes": 1
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "title": {
+        "zh": "大实习理论：真实反馈才是杠杆",
+        "en": "Big Internship Theory"
+      },
+      "summary": {
+        "zh": "强调实习中获得的真实问题反馈，而非学校与头衔。",
+        "en": "Emphasizes real-world feedback from internships over institutional titles."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2122657734927769806",
+      "url": "https://x.com/Selen7005717917/status/2122657734927769806",
+      "text": "我直接提出大本质理论.\n\n人类文明的轴心时代…",
+      "created_at": "Tue Nov 17 11:46:55 +0000 2026",
+      "created_timestamp": 1794916015,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 58,
+        "bookmarks": 13,
+        "views": 4699,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 5
+      },
+      "author": {
+        "name": "Yue Su",
+        "handle": "Selen7005717917",
+        "url": "https://x.com/Selen7005717917",
+        "bio": "PhD at MMLab@HKU (2026.9 - ).\nNext Transformer Initiator.\nFounder of IAAI Team.",
+        "location": "Hong Kong",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1883348413330419712/jAvSAo6a_200x200.jpg",
+        "website": "http://selen-suyue.github.io",
+        "followers": 1615,
+        "verified": true
+      },
+      "quote": {
+        "id": "2121958331682328643",
+        "url": "https://x.com/greghxm_1/status/2121958331682328643",
+        "text": "",
+        "likes": 115,
+        "author": {
+          "name": "Greg Hu",
+          "handle": "greghxm_1"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 190,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T12:38:14.648022+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大本质理论：技术变革中的百家争鸣",
+        "en": "Big Essence Theory"
+      },
+      "summary": {
+        "zh": "将科研圈新理论的涌现比作社会剧变中的百家争鸣，认为 AI 正使既有工作、研究和生活经验失效。",
+        "en": "Compares the proliferation of research theories to competing schools during social upheaval, arguing that AI disrupts inherited experience."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2123138471212777589",
+      "url": "https://x.com/noahatwhere/status/2123138471212777589",
+      "text": "我将提出大审美理论，每个 PhD 都需要审美…",
+      "created_at": "Wed Nov 18 19:37:12 +0000 2026",
+      "created_timestamp": 1795030632,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 52,
+        "bookmarks": 28,
+        "views": 2661,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 3
+      },
+      "author": {
+        "name": "NoaX",
+        "handle": "noahatwhere",
+        "url": "https://x.com/noahatwhere",
+        "bio": "北美PhD 在读，Founding Staff @ Stealth Startup\nex-Harvard Researcher, Solo Developer, UI/UX designer \nBuilding: http://peekdesign.space",
+        "location": "San Francisco, CA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2116778836188913664/rbpTXx8H_200x200.jpg",
+        "website": null,
+        "followers": 2968,
+        "verified": true
+      },
+      "quote": {
+        "id": "2121879505170210981",
+        "url": "https://x.com/xzhang_billy/status/2121879505170210981",
+        "text": "",
+        "likes": 528,
+        "author": {
+          "name": "Xuan (Billy) Zhang",
+          "handle": "xzhang_billy"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 514,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大审美理论",
+        "en": "The Research Aesthetics Theory"
+      },
+      "summary": {
+        "zh": "讨论研究选题、论文呈现、报告、简历与个人主页中的审美判断，以及清晰表达的价值。",
+        "en": "Examines judgment and presentation in research questions, papers, talks, résumés, and personal websites."
+      },
+      "kind": "theory",
+      "latest_metrics": {
+        "likes": 52,
+        "bookmarks": 28,
+        "views": 2716,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 3
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2122873339777536021",
+      "url": "https://x.com/zhilinjerrywag/status/2122873339777536021",
+      "text": "我提一个新理论\n“大PR理论”：\n- 拿到g…",
+      "created_at": "Wed Nov 18 02:03:39 +0000 2026",
+      "created_timestamp": 1794967419,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 49,
+        "bookmarks": 19,
+        "views": 3741,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0
+      },
+      "author": {
+        "name": "Zhilin Wang",
+        "handle": "zhilinjerrywag",
+        "url": "https://x.com/zhilinjerrywag",
+        "bio": "Founder & CTO @metix_ai\nCS PhD @PurdueCS\nBuilding the infrastructure for hiring in agent era",
+        "location": "San Francisco, CA, USA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2097030581322493952/R-5CdD24_200x200.jpg",
+        "website": "https://www.metix.ai/",
+        "followers": 1207,
+        "verified": true
+      },
+      "quote": {
+        "id": "2121879505170210981",
+        "url": "https://x.com/xzhang_billy/status/2121879505170210981",
+        "text": "",
+        "likes": 528,
+        "author": {
+          "name": "Xuan (Billy) Zhang",
+          "handle": "xzhang_billy"
+        },
+        "photos": []
+      },
+      "text_status": "excerpt",
+      "original_character_count": 203,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T12:38:14.648022+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大 PR 理论：资助后的公关传播",
+        "en": "Big PR Theory: Public Relations"
+      },
+      "summary": {
+        "zh": "以讽刺性的传播路线讨论拿到资助后通过媒体、采访、播客和报告塑造公众形象并吸引投资。这里的 PR 指公关传播。",
+        "en": "Satirizes a publicity strategy of media coverage, interviews, podcasts, and talks after securing grants to attract investors. PR here means public relations."
+      },
+      "kind": "theory"
+    },
+    {
+      "id": "2121770917718315406",
+      "url": "https://x.com/noahatwhere/status/2121770917718315406",
+      "text": "人类社会正在真正进入一个 大 LLM 时代。…",
+      "created_at": "Sun Nov 15 01:03:02 +0000 2026",
+      "created_timestamp": 1794704582,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 29,
+        "bookmarks": 13,
+        "views": 2912,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 1
+      },
+      "author": {
+        "name": "NoaX",
+        "handle": "noahatwhere",
+        "url": "https://x.com/noahatwhere",
+        "bio": "北美PhD 在读，Founding Staff @ Stealth Startup\nex-Harvard Researcher, Solo Developer, UI/UX designer \nBuilding: http://peekdesign.space",
+        "location": "San Francisco, CA",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2116778836188913664/rbpTXx8H_200x200.jpg",
+        "website": null,
+        "followers": 2968,
+        "verified": true
+      },
+      "quote": null,
+      "text_status": "excerpt",
+      "original_character_count": 2371,
+      "verification": {
+        "provider": "FixTweet public API",
+        "checked_at": "2026-11-19T11:42:27.038494+00:00",
+        "official_x_api": false,
+        "relevance": "editorial"
+      },
+      "title": {
+        "zh": "大吞噬理论",
+        "en": "The Great Absorption Theory"
+      },
+      "summary": {
+        "zh": "基模的扩张正在重新划定研究与工作的边界，这篇讨论把它放到更广泛的社会变化中。",
+        "en": "A discussion of how expanding foundation-model capabilities reshape research, work, and society."
+      },
+      "kind": "theory",
+      "latest_metrics": {
+        "likes": 29,
+        "bookmarks": 13,
+        "views": 2914,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 1
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true
+    },
+    {
+      "id": "2117955709778403425",
+      "url": "https://x.com/persdre/status/2117955709778403425",
+      "text": "最近刷到很多东西 大家都从上班变成了接活。写代码按项目结 设计按单结 短剧群演按天结 数据标注按条结 陪诊 上门喂猫 婚礼跟拍全按次结。连大模型都是日结的 按token收钱 用完就走。\n\n国内大厂的大模型团队到OpenAI Anthropic 哪怕是非常高位的人也是说走就走 很多人干不满一年 几个月就换地方 Anthropic还有人股权没兑现就走了。\n\n以前日结是三和大神的专属标签 干一天玩三天 被当成笑话看。现在回头看 我觉得他们只是比我们早想明白了。\n\n我第一反应想到的是期货的逐日盯市。每天收盘 交易所把你的盈亏当天结清 保证金不够就得补 补不上就强平。这么麻烦 是因为交易所不确定你明天还在不在。对手方越不可信 结算周期就越短。美股2024年把结算从T+2缩到T+1 理由也是降低对手方风险。\n\n打工也是一份合约。月薪按月结 年终奖按年结 期权按四年结 退休金按几十年结。周期越长 你借给公司的劳动越多 你得相信它到时候还在 还认账。现在你不信公司明天还在 公司也不信你明天还有用 两边都不想被拖欠 那就今天的活今天结。三和大神只是最早一批对老板说我不信你的人。\n\n大模型圈的高位的人其实也在日结 只是单价高。猎头天天报价 新东家把你没归属的期权折现买断 本来四年结清的账 几个月就按市价结一次。\n\n长期饭票本来是一张长久期的债 年轻时少给你一点 后面靠晋升涨薪补回来。可现在35岁就可能被优化 这份溢价还没兑付就作废了 锁住反而亏 聪明人自然往短了走。\n\n但日结有个代价 钱结清了 经验也跟着结清了。而且日结的价也不稳定 今天年轻能拿一百五 一年后身体精力往下走 可能只能拿一百。力气是会折旧的。这是三和最让我难过的地方。大模型圈跳得太勤 什么都没做出来就走 一样会掉价。能一直被高价挖的 是身上有不按天结算的东西的人 做过的模型 论文 带过的团队 圈子里的名声 猎头的价其实是给这些的。\n\n写到这里我也有点不确定 技能的保质期在变短 论文一两个会议季就过时 连名声都换得很快 人生可能也在慢慢变成日结。我现在能想到还按年结算的 大概只剩身边的人了。",
+      "created_at": "Wed Nov 04 12:22:45 +0000 2026",
+      "created_timestamp": 1793794965,
+      "lang": "zh",
+      "is_note_tweet": true,
+      "metrics": {
+        "likes": 23,
+        "bookmarks": 12,
+        "views": 3080,
+        "retweets": 2,
+        "replies": 3,
+        "quotes": 0
+      },
+      "author": {
+        "name": "鸭基米德",
+        "handle": "persdre",
+        "url": "https://x.com/persdre",
+        "bio": "小红书同名 6k粉\nCS PhD candidate & Quant Researcher @NUSingapore, researching on LLM for finance\nBS @NUSingapore \nex-Undergrad @sjtu1896",
+        "location": "Singapore",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1835003451929137152/GQDK4zvD_200x200.jpg",
+        "website": "https://persdre.github.io/",
+        "followers": 923,
+        "verified": true
+      },
+      "quote": null,
+      "latest_metrics": {
+        "likes": 25,
+        "bookmarks": 12,
+        "views": 3090,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 0
+      },
+      "last_verified_at": "2026-11-19T12:38:14.648022+00:00",
+      "current_threshold_met": true,
+      "text_status": "existing_archive",
+      "title": {
+        "zh": "大日结理论",
+        "en": "Big Daily Settlement Theory"
+      },
+      "summary": {
+        "zh": "从互信下降与技能变化讨论工作结算周期的缩短。",
+        "en": "Discusses shorter settlement cycles for work amid declining trust and changing skills."
+      },
+      "kind": "theory"
+    }
+  ],
+  "total_theory_posts": 23,
+  "target_count": 50,
+  "target_met": false,
+  "collection_status": {
+    "attempted": 32,
+    "refreshed": 27,
+    "search_endpoint": "recent",
+    "diagnostics": [
+      "official_x_search_unavailable: no bearer token or authenticated xurl app"
+    ],
+    "remaining_to_target": 27,
+    "pending_queue_count": 0,
+    "note": "Counts include prior verified snapshots when refresh fails. New posts contain excerpts, not full archives.",
+    "results": [
+      {
+        "id": "2121879505170210981",
+        "status": "verified",
+        "likes": 528
+      },
+      {
+        "id": "2121770917718315406",
+        "status": "verified",
+        "likes": 29
+      },
+      {
+        "id": "2121889297066582500",
+        "status": "verified",
+        "likes": 662
+      },
+      {
+        "id": "2120454907870495037",
+        "status": "below_threshold",
+        "likes": 13
+      },
+      {
+        "id": "2121958331682328643",
+        "status": "verified",
+        "likes": 115
+      },
+      {
+        "id": "2121985351304843447",
+        "status": "verified",
+        "likes": 169
+      },
+      {
+        "id": "2123138471212777589",
+        "status": "verified",
+        "likes": 52
+      },
+      {
+        "id": "2123135711297867881",
+        "status": "verified",
+        "likes": 274
+      },
+      {
+        "id": "2123005199967297994",
+        "status": "verified",
+        "likes": 1185
+      },
+      {
+        "id": "2122757000064889213",
+        "status": "verified",
+        "likes": 201
+      },
+      {
+        "id": "2122336224912552437",
+        "status": "verified",
+        "likes": 79
+      },
+      {
+        "id": "2122586708470296977",
+        "status": "verified",
+        "likes": 1440
+      },
+      {
+        "id": "2122154720920060350",
+        "status": "verified",
+        "likes": 83
+      },
+      {
+        "id": "2121985304810979360",
+        "status": "fetch_failed",
+        "retained": false
+      },
+      {
+        "id": "2120212679470268893",
+        "status": "verified",
+        "likes": 445
+      },
+      {
+        "id": "2108964342679183668",
+        "status": "verified",
+        "likes": 71
+      },
+      {
+        "id": "2109310595690336566",
+        "status": "verified",
+        "likes": 77
+      },
+      {
+        "id": "2117955709778403425",
+        "status": "verified",
+        "likes": 25
+      },
+      {
+        "id": "2115096138223342072",
+        "status": "verified",
+        "likes": 85
+      },
+      {
+        "id": "2117991393683750962",
+        "status": "verified",
+        "likes": 111
+      },
+      {
+        "id": "2123224953424412926",
+        "status": "verified",
+        "likes": 146
+      },
+      {
+        "id": "2123315885683409127",
+        "status": "verified",
+        "likes": 86
+      },
+      {
+        "id": "2122657734927769806",
+        "status": "verified",
+        "likes": 58
+      },
+      {
+        "id": "2122873339777536021",
+        "status": "verified",
+        "likes": 49
+      },
+      {
+        "id": "2122859964205277441",
+        "status": "verified",
+        "likes": 347
+      },
+      {
+        "id": "2122633488323268845",
+        "status": "verified",
+        "likes": 117
+      },
+      {
+        "id": "2122224787753992542",
+        "status": "verified",
+        "likes": 207
+      },
+      {
+        "id": "2120331928352194804",
+        "status": "verified",
+        "likes": 189
+      },
+      {
+        "id": "2109230855822708859",
+        "status": "verified",
+        "likes": 143
+      },
+      {
+        "id": "2122376297305510332",
+        "status": "needs_relevance_review",
+        "likes": 1248,
+        "url": "https://x.com/wwwgoubuli/status/2122376297305510332"
+      },
+      {
+        "id": "2122989341060538650",
+        "status": "needs_relevance_review",
+        "likes": 284,
+        "url": "https://x.com/sheriyuo/status/2122989341060538650"
+      },
+      {
+        "id": "2120120905619902933",
+        "status": "needs_relevance_review",
+        "likes": 2661,
+        "url": "https://x.com/DUBIANCHEOVO/status/2120120905619902933"
+      }
+    ]
+  }
+}

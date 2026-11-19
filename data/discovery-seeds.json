@@ -1,0 +1,640 @@
+{
+  "schema_version": "1.0",
+  "discovered_at": "2026-11-19",
+  "note": "Discovery seeds are not automatically verified or counted. The collector checks current likes.",
+  "posts": [
+    {
+      "id": "2121770917718315406",
+      "url": "https://x.com/noahatwhere/status/2121770917718315406",
+      "title": {
+        "zh": "大吞噬理论",
+        "en": "The Great Absorption Theory"
+      },
+      "summary": {
+        "zh": "基模的扩张正在重新划定研究与工作的边界，这篇讨论把它放到更广泛的社会变化中。",
+        "en": "A discussion of how expanding foundation-model capabilities reshape research, work, and society."
+      },
+      "kind": "theory",
+      "editorially_relevant": true
+    },
+    {
+      "id": "2121889297066582500",
+      "url": "https://x.com/persdre/status/2121889297066582500",
+      "title": {
+        "zh": "大合作理论",
+        "en": "The Collaboration Theory"
+      },
+      "summary": {
+        "zh": "从转向大模型研究的经历出发，强调选择合作者、及时公开工作，以及进入活跃研究网络。",
+        "en": "Lessons from moving into LLM research: find collaborators, release work promptly, and participate in productive research networks."
+      },
+      "kind": "theory",
+      "editorially_relevant": true
+    },
+    {
+      "id": "2120454907870495037",
+      "url": "https://x.com/KleinJoe219384/status/2120454907870495037",
+      "title": {
+        "zh": "大耍起理论",
+        "en": "The Playful Experimentation Theory"
+      },
+      "summary": {
+        "zh": "把身心状态放在首位，在不承担债务的前提下尝试看似难以完成的事。",
+        "en": "Prioritize well-being and explore ambitious possibilities without taking on debt."
+      },
+      "kind": "theory",
+      "editorially_relevant": true
+    },
+    {
+      "id": "2121958331682328643",
+      "url": "https://x.com/greghxm_1/status/2121958331682328643",
+      "title": {
+        "zh": "大理论理论",
+        "en": "The Theory of Making Theories"
+      },
+      "summary": {
+        "zh": "鼓励博士生把自己的认识整理成可讨论的框架，以澄清研究方向并让潜在合作者理解自己。",
+        "en": "Encourages doctoral researchers to articulate frameworks that clarify their thinking and make their interests legible to collaborators."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 115,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2121985351304843447",
+      "url": "https://x.com/geminitfwang/status/2121985351304843447",
+      "title": {
+        "zh": "大密度理论",
+        "en": "The Time Density Theory"
+      },
+      "summary": {
+        "zh": "用单位时间内活动的价值解释成长差异，关注能够改善后续判断与行动的投入。",
+        "en": "Explores differences in growth through the value of activities per unit of time, especially investments that improve later decisions."
+      },
+      "kind": "theory",
+      "editorially_relevant": true
+    },
+    {
+      "id": "2123138471212777589",
+      "url": "https://x.com/noahatwhere/status/2123138471212777589",
+      "title": {
+        "zh": "大审美理论",
+        "en": "The Research Aesthetics Theory"
+      },
+      "summary": {
+        "zh": "讨论研究选题、论文呈现、报告、简历与个人主页中的审美判断，以及清晰表达的价值。",
+        "en": "Examines judgment and presentation in research questions, papers, talks, résumés, and personal websites."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 52,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索直接观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2123135711297867881",
+      "url": "https://x.com/noahatwhere/status/2123135711297867881",
+      "title": {
+        "zh": "关于科研展示与设计的讨论",
+        "en": "Research Communication and Design"
+      },
+      "summary": {
+        "zh": "这篇前导讨论把设计视为科研交流的一部分，主张降低理解成果的成本；原帖同时介绍作者自己的设计产品。",
+        "en": "A precursor discussion arguing that design can make research easier to understand; the original also promotes the author’s design product."
+      },
+      "kind": "discussion",
+      "editorially_relevant": true
+    },
+    {
+      "id": "2123005199967297994",
+      "url": "https://x.com/silsrc/status/2123005199967297994",
+      "title": {
+        "zh": "对大斜率理论的反思",
+        "en": "A Critique of High-Slope Research"
+      },
+      "summary": {
+        "zh": "质疑把短期可验证的高回报当作唯一准则，提醒读者考虑需要长期探索的研究。",
+        "en": "Challenges an exclusive focus on quickly measurable returns and draws attention to research that requires prolonged exploration."
+      },
+      "kind": "discussion",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 1184,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "多次检索与thread核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "反驳"
+      }
+    },
+    {
+      "id": "2122757000064889213",
+      "url": "https://x.com/jiegaosophia/status/2122757000064889213",
+      "title": {
+        "zh": "大开放理论",
+        "en": "The Openness Theory"
+      },
+      "summary": {
+        "zh": "主张在学科、与人交往、前沿技术和科研失败面前保持学习意愿，避免先入为主的评价妨碍交流。",
+        "en": "Encourages openness to disciplines, people, new technology, and research setbacks, rather than letting preconceptions prevent learning."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "discovery_url": "https://teapaw.org/jiegaosophia?sort=popular",
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 201,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2122336224912552437",
+      "url": "https://x.com/Chengxing_Xie/status/2122336224912552437",
+      "title": {
+        "zh": "大水群理论",
+        "en": "The Group Chat Theory"
+      },
+      "summary": {
+        "zh": "把持续参与小型技术与科研社群视为建立关系的方法，强调反复交流带来的熟悉感与合作机会。",
+        "en": "Treats sustained participation in small technical and research communities as a way to build familiarity, relationships, and collaboration opportunities."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "discovery_url": "https://www.nitter.gq/xzhang_billy"
+    },
+    {
+      "id": "2122586708470296977",
+      "url": "https://x.com/noahatwhere/status/2122586708470296977",
+      "title": {
+        "zh": "关于研究生阶段杠杆与选择的讨论",
+        "en": "Leverage and Choices in Graduate Research"
+      },
+      "summary": {
+        "zh": "区分投入努力与选择值得投入的事情，讨论研究生如何重新审视评价体系，并对可能改变人生方向的决定负责。",
+        "en": "Distinguishes working hard from choosing worthwhile work, asking graduate researchers to reassess inherited measures of success and take responsibility for major decisions."
+      },
+      "kind": "discussion",
+      "editorially_relevant": true,
+      "discovery_url": "https://www.nitter.gq/sanbuphy"
+    },
+    {
+      "id": "2122154720920060350",
+      "url": "https://x.com/sanbuphy/status/2122154720920060350",
+      "title": {
+        "zh": "十一项大理论汇编",
+        "en": "An Eleven-Theory Roundup"
+      },
+      "summary": {
+        "zh": "已有来源的扩展索引；不作为新的独立理论计数。",
+        "en": "An expanded index of existing sources; excluded from the distinct editorial count."
+      },
+      "kind": "context",
+      "editorially_relevant": true,
+      "discovery_url": "https://www.nitter.gq/sanbuphy",
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 83,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索直接观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "汇总"
+      }
+    },
+    {
+      "id": "2121985304810979360",
+      "url": "https://x.com/Selen7005717917/status/2121985304810979360",
+      "title": {
+        "zh": "大斜率理论后续讨论（原帖暂不可读取）",
+        "en": "High-Slope Follow-up (Source Unavailable)"
+      },
+      "summary": {
+        "zh": "公开索引记录到的后续讨论，原始来源核验失败，未收录。",
+        "en": "A follow-up located in a public index, excluded because source verification failed."
+      },
+      "kind": "discussion",
+      "editorially_relevant": true,
+      "discovery_url": "https://www.nitter.gq/sanbuphy"
+    },
+    {
+      "id": "2121879505170210981",
+      "url": "https://x.com/xzhang_billy/status/2121879505170210981",
+      "title": {
+        "zh": "总结简中区与PhD相关理论",
+        "en": "Summary of Chinese PhD-related Big Theories"
+      },
+      "summary": {
+        "zh": "核心汇总帖，列出大 Bench、大实习、大粉、大日结、大斜率和 HR 理论。",
+        "en": "A roundup of the benchmark, internship, fandom, daily settlement, slope, and HR theories."
+      },
+      "kind": "context",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 528,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "多次thread_fetch与关键词检索核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "汇总"
+      }
+    },
+    {
+      "id": "2120212679470268893",
+      "url": "https://x.com/vclee8/status/2120212679470268893",
+      "title": {
+        "zh": "大Bench理论：基模吞噬下PhD只能造bench",
+        "en": "Big Bench Theory"
+      },
+      "summary": {
+        "zh": "讨论将研究方向转化为基模友好的问题、数据与评测任务。",
+        "en": "Discusses framing research as foundation-model-friendly problems, datasets, and benchmarks."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 445,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch多次核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2108964342679183668",
+      "url": "https://x.com/vclee8/status/2108964342679183668",
+      "title": {
+        "zh": "大实习理论：真实反馈才是杠杆",
+        "en": "Big Internship Theory"
+      },
+      "summary": {
+        "zh": "强调实习中获得的真实问题反馈，而非学校与头衔。",
+        "en": "Emphasizes real-world feedback from internships over institutional titles."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 71,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2109310595690336566",
+      "url": "https://x.com/collinzrj2001/status/2109310595690336566",
+      "title": {
+        "zh": "大粉理论：推特/小红书粉丝 > Google Scholar引用",
+        "en": "Big Fan Theory"
+      },
+      "summary": {
+        "zh": "以粉丝数量与学术引用的对比，讨论博士生的注意力资源。",
+        "en": "Compares social-media followers with citations as resources for doctoral researchers."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 77,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2117955709778403425",
+      "url": "https://x.com/persdre/status/2117955709778403425",
+      "title": {
+        "zh": "大日结理论",
+        "en": "Big Daily Settlement Theory"
+      },
+      "summary": {
+        "zh": "从互信下降与技能变化讨论工作结算周期的缩短。",
+        "en": "Discusses shorter settlement cycles for work amid declining trust and changing skills."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 25,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2115096138223342072",
+      "url": "https://x.com/Selen7005717917/status/2115096138223342072",
+      "title": {
+        "zh": "大斜率理论：做斜率最高的事",
+        "en": "Big Slope Theory"
+      },
+      "summary": {
+        "zh": "主张优先投入进展斜率较高的事情。",
+        "en": "Argues for prioritizing activities with a higher rate of progress."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 85,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2117991393683750962",
+      "url": "https://x.com/xzhang_billy/status/2117991393683750962",
+      "title": {
+        "zh": "HR理论：AI PhD更适合转行做HR",
+        "en": "HR Theory"
+      },
+      "summary": {
+        "zh": "将博士生的传播、技术判断、人脉和工具能力与招聘工作类比。",
+        "en": "Compares PhD communication, technical judgment, networks, and tool skills with recruiting work."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 111,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2123224953424412926",
+      "url": "https://x.com/greghxm_1/status/2123224953424412926",
+      "title": {
+        "zh": "大空仓理论：短期会被 LLM 解决的能力是否值得投入",
+        "en": "Big Empty Position Theory"
+      },
+      "summary": {
+        "zh": "主张审视那些短期内可能被 LLM 替代、却需要大量投入的能力，把精力用于更有判断力的努力；并非倡导什么都不做。",
+        "en": "Questions heavy investment in skills LLMs may soon automate and argues for more discerning effort, rather than doing nothing."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 145,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索直接观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2123315885683409127",
+      "url": "https://x.com/GunpowderTwi/status/2123315885683409127",
+      "title": {
+        "zh": "大休学理论：用间隔年探索实习与科研",
+        "en": "Big Gap Year Theory"
+      },
+      "summary": {
+        "zh": "以带有玩笑意味的提问，讨论本科一年级后休学一年投入实习与科研的可能性。",
+        "en": "Playfully proposes a gap year after freshman year to explore internships and research."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 86,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索直接观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2122657734927769806",
+      "url": "https://x.com/Selen7005717917/status/2122657734927769806",
+      "title": {
+        "zh": "大本质理论：技术变革中的百家争鸣",
+        "en": "Big Essence Theory"
+      },
+      "summary": {
+        "zh": "将科研圈新理论的涌现比作社会剧变中的百家争鸣，认为 AI 正使既有工作、研究和生活经验失效。",
+        "en": "Compares the proliferation of research theories to competing schools during social upheaval, arguing that AI disrupts inherited experience."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 58,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索直接观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2122873339777536021",
+      "url": "https://x.com/zhilinjerrywag/status/2122873339777536021",
+      "title": {
+        "zh": "大 PR 理论：资助后的公关传播",
+        "en": "Big PR Theory: Public Relations"
+      },
+      "summary": {
+        "zh": "以讽刺性的传播路线讨论拿到资助后通过媒体、采访、播客和报告塑造公众形象并吸引投资。这里的 PR 指公关传播。",
+        "en": "Satirizes a publicity strategy of media coverage, interviews, podcasts, and talks after securing grants to attract investors. PR here means public relations."
+      },
+      "kind": "theory",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 49,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "thread_fetch直接核验。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "独立理论"
+      }
+    },
+    {
+      "id": "2122859964205277441",
+      "url": "https://x.com/uncle_moon_x/status/2122859964205277441",
+      "title": {
+        "zh": "反思大斜率理论：踏实积累与长期手艺",
+        "en": "A Critique of Big Slope Theory: Durable Craft"
+      },
+      "summary": {
+        "zh": "以基础设施、数据直觉和训练经验为例，反驳只有热点方向才有价值的看法，强调长期积累。",
+        "en": "Uses infrastructure, data intuition, and training experience to challenge the idea that only fashionable directions have value."
+      },
+      "kind": "discussion",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 346,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "多次检索观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "反驳"
+      }
+    },
+    {
+      "id": "2122633488323268845",
+      "url": "https://x.com/VictorSJHuang/status/2122633488323268845",
+      "title": {
+        "zh": "支持大斜率理论：顺着基座演进增加杠杆",
+        "en": "Supporting Big Slope Theory: Building on Foundation Models"
+      },
+      "summary": {
+        "zh": "结合从 AI safety 到 agent 的转向经历，主张重视真实生产反馈，并顺着基座模型演进选择方向。",
+        "en": "Draws on pivots from AI safety to agents to argue for production feedback and research aligned with foundation-model progress."
+      },
+      "kind": "discussion",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 117,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索直接观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "扩展讨论"
+      }
+    },
+    {
+      "id": "2122224787753992542",
+      "url": "https://x.com/PengQihang87687/status/2122224787753992542",
+      "title": {
+        "zh": "支持大斜率理论：方向转换的经验",
+        "en": "Supporting Big Slope Theory: Lessons from Research Pivots"
+      },
+      "summary": {
+        "zh": "以跨越 3D grounding、自动驾驶、机器人和 LLM 的经历，讨论面对更有价值方向时及时转向。",
+        "en": "Reflects on moves across 3D grounding, driving, robotics, and LLMs, advocating timely pivots toward more valuable directions."
+      },
+      "kind": "discussion",
+      "editorially_relevant": true,
+      "submitted_observation": {
+        "provider": "User-provided Grok output",
+        "claimed_likes": 207,
+        "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+        "verification_note": "关键词检索直接观察。不确定性低。",
+        "independently_verified_by_this_claim": false,
+        "submitted_type": "扩展讨论"
+      }
+    }
+  ],
+  "pending_candidates": [
+    {
+      "title": {
+        "zh": "大心流理论",
+        "en": "The Flow Theory"
+      },
+      "author": "ZhiyuanRen8",
+      "discovery_url": "https://www.xitter.gq/yao_yuguang",
+      "status": "exact_status_id_and_likes_unverified",
+      "last_checked_at": "2026-11-19",
+      "access_limitations": [
+        "Exact-title and author searches locate indexed profile text but no resolvable status link.",
+        "Public embedded X timelines returned HTTP 429.",
+        "Live mirror profile access returned HTTP 403 or cache miss."
+      ]
+    },
+    {
+      "title": {
+        "zh": "大游泳理论",
+        "en": "The Swimming Theory"
+      },
+      "author": "AndrewPu0613",
+      "discovery_url": "https://www.sotwe.com/AndrewPu0613",
+      "status": "exact_status_id_and_likes_unverified",
+      "last_checked_at": "2026-11-19",
+      "access_limitations": [
+        "Exact-title and author searches locate indexed profile text but no resolvable status link.",
+        "Public embedded X timelines returned HTTP 429.",
+        "Live mirror profile access returned HTTP 403 or cache miss."
+      ]
+    }
+  ],
+  "research_passes": [
+    {
+      "date": "2026-11-19",
+      "resolved_pending_candidates": 2,
+      "new_editorial_sources": 3,
+      "roundup_checked": "https://x.com/sanbuphy/status/2122154720920060350",
+      "roundup_link_count": 11,
+      "roundup_new_source_ids": 0,
+      "unavailable_source": "https://x.com/Selen7005717917/status/2121985304810979360",
+      "unavailable_status": "public_metadata_api_http_404",
+      "remaining_unresolved_candidates": 3,
+      "excluded_related_source": {
+        "url": "https://x.com/Boywus/status/2120489878811230504",
+        "reason": "Broad personal-growth analogy; not counted as a distinct PhD 大理论 solely to increase count."
+      }
+    }
+  ],
+  "resolved_candidates": [
+    {
+      "title": {
+        "zh": "大本质理论",
+        "en": "The Essential Change Theory"
+      },
+      "author": "Selen7005717917",
+      "discovery_url": "https://nitter.gq/VictorSJHuang",
+      "status": "resolved",
+      "last_checked_at": "2026-11-19",
+      "access_limitations": [
+        "Exact-title and author searches locate indexed profile text but no resolvable status link.",
+        "Public embedded X timelines returned HTTP 429.",
+        "Live mirror profile access returned HTTP 403 or cache miss."
+      ],
+      "resolved_id": "2122657734927769806",
+      "resolved_url": "https://x.com/Selen7005717917/status/2122657734927769806",
+      "resolution": "User supplied exact ID; author, text and >=20 likes independently read through FixTweet."
+    }
+  ],
+  "submission_batches": [
+    {
+      "source": "User-provided Grok output",
+      "received_date": "2026-11-19",
+      "claimed_verification_time": "2026-11-19T12:35:00Z approx",
+      "post_ids": [
+        "2121879505170210981",
+        "2122154720920060350",
+        "2120212679470268893",
+        "2108964342679183668",
+        "2109310595690336566",
+        "2117955709778403425",
+        "2115096138223342072",
+        "2117991393683750962",
+        "2121958331682328643",
+        "2123224953424412926",
+        "2123315885683409127",
+        "2123138471212777589",
+        "2122757000064889213",
+        "2122657734927769806",
+        "2122873339777536021",
+        "2123005199967297994",
+        "2122859964205277441",
+        "2122633488323268845",
+        "2122224787753992542"
+      ],
+      "note": "Claim snapshots are distinct from collector verification. Existing curated titles/summaries and source text are preserved."
+    }
+  ]
+}

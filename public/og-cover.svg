@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f7fb"/>
+      <stop offset="55%" stop-color="#eef1f6"/>
+      <stop offset="100%" stop-color="#e3eaf2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="44" y="44" width="1112" height="542" rx="22" fill="#fbfcfe" stroke="#d5dbe6" stroke-width="2"/>
+  <rect x="96" y="108" width="64" height="4" fill="#a89068"/>
+  <text x="96" y="152" font-family="Sora, sans-serif" font-size="18" font-weight="600" letter-spacing="4" fill="#1f5f73">BIG THEORY ORGANIZATION</text>
+  <text x="96" y="256" font-family="Noto Serif SC, Newsreader, Georgia, serif" font-size="78" font-weight="700" fill="#152033">大理论合订本</text>
+  <text x="96" y="320" font-family="Newsreader, Georgia, serif" font-size="40" font-style="italic" fill="#2c3a52">Big Theory Blog</text>
+  <text x="96" y="395" font-family="Noto Sans SC, sans-serif" font-size="24" fill="#5a6578">大 Bench 理论 · 大实习理论 · 大粉理论 · 大日结理论 · 大斜率理论 · HR 理论</text>
+  <text x="96" y="438" font-family="Noto Serif SC, Georgia, serif" font-size="24" fill="#1f5f73">“论文也许只是基模的训练语料，大理论才是当代 PhD 精神自救的本体。”</text>
+  <line x1="96" y1="492" x2="1104" y2="492" stroke="#d5dbe6" stroke-width="1.5"/>
+  <text x="96" y="536" font-family="Sora, sans-serif" font-size="18" font-weight="600" fill="#152033">Big Theory Organization</text>
+  <text x="1104" y="536" text-anchor="end" font-family="Sora, sans-serif" font-size="18" fill="#5a6578">中文 / English · Original Tweets</text>
+</svg>
